@@ -32,12 +32,9 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://fotohh.githu.bio"><img src="https://img.shields.io/badge/-fotohh.github.io-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/KevinPatel04"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:patelkvin04@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/kevinpatel.me"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://fotohh.github.io"><img src="https://img.shields.io/badge/-fotohh.github.io-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:creatorxaxis@gmail.com"><img src="https://img.shields.io/badge/-creatorxaxis@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:spigotmc.org/members/fotoh.830220/"><img src="https://img.shields.io/badge/-Fotohh-D14836?style=for-the-badge&logo=Spigot&logoColor=white"/></a>
 </p>
 
 ---

@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I am Singha De La Cruz</h1>
 
-<p align="center" width="150px"> I have been coding for around 3-4 years, mainly self-taught, and have learned so many new things. I'm learning new languages such as CPP, CS, JS, and Python. I am currently most fluent in Java and I am constantly looking to grow even more.</p>
+<p align="center" width="150px"> I have been coding for around 3 years, mainly self-taught, and have learned so many new things. I'm learning new languages such as CPP, CS, JS, and Python. I am currently most fluent in Java and I am constantly looking to grow even more.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="http://profile-counter.glitch.me/Fotohh/count.svg" alt="visitor badge"/></p>

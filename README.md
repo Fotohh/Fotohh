@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I am Singha De La Cruz</h1>
 
-<p align="center" width="150px"> I have been coding for around 5 years, mainly self-taught, and have learned so many new things. I'm learning languages such as CPP, Rust, Python, and currently most fluent in Java. I am constantly looking to grow even more.</p>
+<p align="center" width="150px"> I have been coding for around 5 years, mainly self-taught, and have learned so many new things. I'm learning languages such as CPP, Rust, Python, C, and I am currently most fluent in Java. I am constantly looking to grow even more.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="http://profile-counter.glitch.me/Fotohh/count.svg" alt="visitor badge"/></p>
@@ -27,7 +27,7 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://fotohh.github.io"><img src="https://img.shields.io/badge/-fotohh.github.io-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://fotoh.xyz"><img src="https://img.shields.io/badge/-fotoh.xyz-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:creatorxaxis@gmail.com"><img src="https://img.shields.io/badge/-creatorxaxis@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://spigotmc.org/members/fotoh.830220/"><img src="https://img.shields.io/badge/-Fotohh-D14836?style=for-the-badge&logo=minecraft&logoColor=white"/></a>
 </p>

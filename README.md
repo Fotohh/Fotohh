@@ -23,7 +23,6 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://fotoh.xyz"><img src="https://img.shields.io/badge/-fotoh.xyz-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:creatorxaxis@gmail.com"><img src="https://img.shields.io/badge/-creatorxaxis@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://spigotmc.org/members/fotoh.830220/"><img src="https://img.shields.io/badge/-Fotohh-D14836?style=for-the-badge&logo=minecraft&logoColor=white"/></a>
 </p>
